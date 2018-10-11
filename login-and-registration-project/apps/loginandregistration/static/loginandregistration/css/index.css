@@ -1,0 +1,22 @@
+
+.wrapper{
+	width: 100%;
+}
+form{
+	width: 100%;
+}
+table{
+	width:25%;
+}
+td{
+	display: inline;
+}
+tr{
+	text-align: right;
+}
+h1{
+	text-align: left;
+}
+.green{
+	color: green;
+}
